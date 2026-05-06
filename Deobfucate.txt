@@ -1,0 +1,577 @@
+DEOBFUCATE BY XINNZ
+local fenv = getfenv()
+
+-- [HookOP] static reconstruction omitted (monolithic/minified payload; runtime capture below)
+local lol2 = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
+local lol3 = lol2.CreateWindow(lol2, {
+    ConfigurationSaving = {
+        Enabled = true,
+        FileName = "KGCJHUB"
+    },
+    DisableBuildWarnings = true,
+    DisableRayfieldPrompts = false,
+    Discord = {
+        Enabled = true,
+        Invite = "XmbxNB4qs6",
+        RememberJoins = true
+    },
+    Icon = 0,
+    KeySettings = {
+        FileName = "KGCJHUB",
+        GrabKeyFromSite = false,
+        Key = {"Survival"},
+        Note = "Key Is Gets Changed Every New Script Release https://link-center.net/1374534/tRhI1YlnWVlH",
+        SaveKey = true,
+        Subtitle = "Enter The Key",
+        Title = "Universal GUI No Crash"
+    },
+    KeySystem = true,
+    LoadingSubtitle = "By KGuestCheatsJ",
+    LoadingTitle = "Roblox Scripter",
+    Name = "KGuestCheatsJ Hub Universal GUI",
+    Theme = "DarkBlue"
+})
+local lol4 = lol3.CreateTab(lol3, "Scripts", 4483362458)
+local lol5 = lol4.CreateSection(lol4, "All My Scripts")
+local lol6 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "WARNING! If Scripts Or KeySystem Not Works Use VPN"
+})
+local lol7 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Database Loader KeySystem For Other Scripts APIV1"
+})
+local lol8 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Database Loader KeySystem For Other Scripts APIV2"
+})
+local lol9 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "IQ Obby"
+})
+local lol10 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "IQ Obby Galaxy 2"
+})
+local lol11 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "IQ Admin Obby"
+})
+local lol12 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Ball And Axe"
+})
+local lol13 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Brawl-Blox"
+})
+local lol14 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Area51 DETECTED DONT USE"
+})
+local lol15 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Area51 V2"
+})
+local lol16 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Area51 V3"
+})
+local lol17 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Area51 Remake Game Script"
+})
+local lol18 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "In Area51 Alpha APIV1"
+})
+local lol19 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "In Area51 Alpha APIV2"
+})
+local lol20 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "TSB Anim Hub"
+})
+local lol21 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Bulked-UP OLD"
+})
+local lol22 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Bulked-UP REWORK"
+})
+local lol23 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Trench War Old"
+})
+local lol24 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Trench War V2"
+})
+local lol25 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "TrenchWar Place 17"
+})
+local lol26 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Trench Combat"
+})
+local lol27 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Naval Warfare Old"
+})
+local lol28 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Naval Warfare V2"
+})
+local lol29 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Harbor Havoc OUTDATED"
+})
+local lol30 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Arsenal"
+})
+local lol31 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Beat Up Dummies Simulator"
+})
+local lol32 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Block N Props"
+})
+local lol33 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Dont Press Button 4 OLD"
+})
+local lol34 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Dont Press Button 4 REWORK!"
+})
+local lol35 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "CES"
+})
+local lol36 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Tank Game Simulator"
+})
+local lol37 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Random Tools Old"
+})
+local lol38 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Random Tools V2"
+})
+local lol39 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Sky Ranch Tycoon"
+})
+local lol40 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Shoot A Friend"
+})
+local lol41 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Lucky Block Battle Grounds"
+})
+local lol42 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Area-78"
+})
+local lol43 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Zombie Lab"
+})
+local lol44 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "War Simulator"
+})
+local lol45 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Colony Survival"
+})
+local lol46 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Kill In Facility 51"
+})
+local lol47 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "RIVALS PATCHED"
+})
+local lol48 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "A Dusty Trip"
+})
+local lol49 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Facility Revamp"
+})
+local lol50 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Facility Revamp V2 REWORK APIV1"
+})
+local lol51 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Facility Revamp V2 REWORK APIV2"
+})
+local lol52 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive In Facility"
+})
+local lol53 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Pilfering Pirates"
+})
+local lol54 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Nations RP Remastered PATCHED"
+})
+local lol55 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Start A Civilization"
+})
+local lol56 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "World War 3"
+})
+local lol57 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "WW2 Roleplay"
+})
+local lol58 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Protect The House"
+})
+local lol59 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Villager Life"
+})
+local lol60 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Dingus"
+})
+local lol61 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Countryballs Land RP PATCHED"
+})
+local lol62 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Rotation Wars PATCHED"
+})
+local lol63 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Hide The Body"
+})
+local lol64 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Nations Roleplay 3 PATCHED"
+})
+local lol65 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "SCP Warzone"
+})
+local lol66 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Noobs War"
+})
+local lol67 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Webbed"
+})
+local lol68 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "99 Nights In The Forest"
+})
+local lol69 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "War Command"
+})
+local lol70 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Shoot And Eat Noobs"
+})
+local lol71 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Survive On A Raft"
+})
+local lol72 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Steal A Femboy"
+})
+local lol73 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Unusual Force"
+})
+local lol74 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Countryball Wars"
+})
+local lol75 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "The Survival Game"
+})
+local lol76 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "The Survival Game V2 Requires Good Device"
+})
+local lol77 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Classic AirPlane Wars"
+})
+local lol78 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Mini City Tycoon"
+})
+local lol79 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Ymay Civ. Game"
+})
+local lol80 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Killstreak Button Test"
+})
+local lol81 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "INFINITY RPG"
+})
+local lol82 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Slide House Tumble"
+})
+local lol83 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Ancient Warfare"
+})
+local lol84 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Dead Rails"
+})
+local lol85 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Blind Shoot"
+})
+local lol86 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Stick War Legacy Reborn V1 Patched"
+})
+local lol87 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Stick War Legacy Reborn V2 USE AT YOUR OWN RISK!"
+})
+local lol88 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Get The Vote"
+})
+local lol89 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Build An Empire V1 OUTDATED"
+})
+local lol90 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Build An Empire V2 KeySystem API V1"
+})
+local lol91 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Build An Empire V2 KeySystem API V2"
+})
+local lol92 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "World Roleplay"
+})
+local lol93 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Jims Computer 1"
+})
+local lol94 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Jims Computer 2"
+})
+local lol95 = lol4.CreateButton(lol4, {
+    Callback = function()
+end,
+    Name = "Disable Rayfield GUI"
+})
+local lol96 = lol3.CreateTab(lol3, "Last Uptade", 4483362458)
+local lol97 = lol96.CreateSection(lol96, "Last Uptaded Scripts")
+local lol98 = lol96.CreateButton(lol96, {
+    Callback = function()
+end,
+    Name = "Last Uptade Is CountryBall Wars"
+})
+local lol99 = lol96.CreateButton(lol96, {
+    Callback = function()
+end,
+    Name = "Latest Script Is The Survival Game V2"
+})
+local lol100 = lol96.CreateButton(lol96, {
+    Callback = function()
+end,
+    Name = "Disable Rayfield GUI"
+})
+local lol101 = lol3.CreateTab(lol3, "Partners", 4483362458)
+local lol102 = lol101.CreateSection(lol101, "My Partners Scripts")
+local lol103 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "Carrots TrenchWar Script"
+})
+local lol104 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "Carrots Debugify Script"
+})
+local lol105 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "ArticleHub Slap Battles Script"
+})
+local lol106 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "ArticleHub Dead Rails Script"
+})
+local lol107 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "ArticleHub 7 Days To Live Script"
+})
+local lol108 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "ArticleHub 99 Night In Forest Script"
+})
+local lol109 = lol101.CreateButton(lol101, {
+    Callback = function()
+end,
+    Name = "Disable Rayfield GUI"
+})
+local lol110 = lol2.LoadConfiguration(lol2)
+local lol111 = game:GetService("Players")
+local lol112 = game:GetService("UserInputService")
+local lol113 = game:GetService("VirtualInputManager")
+local lol114 = Instance.new("ScreenGui")
+lol114.Name = "DraggableCtrlGui"
+lol114.ResetOnSpawn = false
+local lol115 = lol111.LocalPlayer:WaitForChild("PlayerGui")
+lol114.Parent = lol115
+local lol116 = Instance.new("TextButton")
+lol116.Name = "CtrlButton"
+lol116.Parent = lol114
+lol116.Size = UDim2.new(0, 80, 0, 30)
+lol116.Position = UDim2.new(0, 10, 0, 10)
+lol116.BackgroundTransparency = 0.3
+lol116.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+lol116.BorderSizePixel = 1
+lol116.BorderColor3 = Color3.fromRGB(100, 100, 100)
+lol116.Text = "Toggle UI"
+lol116.TextColor3 = Color3.fromRGB(255, 255, 255)
+lol116.TextScaled = true
+lol116.Font = Enum.Font.SourceSansBold
+local lol117 = Instance.new("Frame")
+lol117.Name = "ButtonFrame"
+lol117.Parent = lol114
+lol117.Size = UDim2.new(0, 82, 0, 32)
+lol117.Position = UDim2.new(0, 9, 0, 9)
+lol117.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+lol117.BorderSizePixel = 0
+-- Terminated: unable to assign property ZIndex. number expected, got Instance
+-- [RuntimeDiagnostic] error=unable to assign property ZIndex. number expected, got Instance
+-- [RuntimeDiagnostic] last_statement=lol117.BorderSizePixel = 0
+-- [RuntimeDiagnostic] emitted_lines=142
+-- [GlobalHarness] status=terminated
+-- [GlobalHarness] error=unable to assign property ZIndex. number expected, got Instance
+-- [GlobalHarness] last_statement=-- [RuntimeDiagnostic] emitted_lines=142
+-- [GlobalHarness] emitted_lines=145
+-- [GlobalHarness] elapsed_seconds=0.091
